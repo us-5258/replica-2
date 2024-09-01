@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:Arial;
+
+}
+.sidebar {
+    height:100vh;
+    width:300px;
+    background-color: rgb(214, 222, 219);
+}
+.dp{
+    align-items: center;
+
+}
+.urvashi{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.profile{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+    
